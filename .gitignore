@@ -1,0 +1,7 @@
+/.next
+/jsconfig.json
+/next.config.mjs
+/node_modules
+/package-lock.json
+/package.json
+/public
